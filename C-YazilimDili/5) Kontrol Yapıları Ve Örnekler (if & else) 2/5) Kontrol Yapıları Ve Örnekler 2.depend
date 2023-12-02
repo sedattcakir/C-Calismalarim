@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667918437 source:c:\users\sedat\desktop\sedat\c dersleri\5) kontrol yapıları ve Örnekler 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

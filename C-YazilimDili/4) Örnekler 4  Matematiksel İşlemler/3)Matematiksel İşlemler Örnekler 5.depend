@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666988736 source:c:\users\sedat\onedrive\desktop\sedat\c dersleri\4) Örnekler 5 matematiksel Ýþlemler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
