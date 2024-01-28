@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668532720 source:c:\users\sedat\onedrive\desktop\sedat\c dersleri\döngüler ve Örnekler 5 (for yapýsý)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
